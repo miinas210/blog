@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Lighter Living"
+author = "Marina Smirnova"
+paginate = 4
+theme = "arabica"
+
+[params]
+    description = "A blog about lighter living"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
