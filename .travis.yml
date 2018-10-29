@@ -4,7 +4,7 @@ install:
 
 # Build the website
 script:
-  - ./exec/hugo --theme=arabica
+  - exec/hugo --theme=arabica
 
 # Deploy to GitHub pages
 deploy:
