@@ -4,6 +4,7 @@ title = "Lighter Living"
 author = "Marina Smirnova"
 paginate = 4
 theme = "arabica"
+publishDir = "docs"
 
 [params]
     description = "A blog about lighter living"
