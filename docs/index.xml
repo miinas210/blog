@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lighter Living</title>
+    <link>https://miinas210.github.io/blog/</link>
+    <description>Recent content on Lighter Living</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://miinas210.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is my first post!</title>
+      <link>https://miinas210.github.io/blog/post/first-post/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miinas210.github.io/blog/post/first-post/</guid>
+      <description>This is a header This is how you do a link to Facebook.
+This is bold. This is underlined.
+This is a smaller header ha ha ha</description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://miinas210.github.io/blog/random/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miinas210.github.io/blog/random/</guid>
+      <description>this is random</description>
+    </item>
+    
+    <item>
+      <title>About Marina</title>
+      <link>https://miinas210.github.io/blog/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://miinas210.github.io/blog/about/</guid>
+      <description>My name is marina
+I am all about the</description>
+    </item>
+    
+  </channel>
+</rss>
