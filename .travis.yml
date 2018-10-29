@@ -1,17 +1,17 @@
 # Clean and don't fail
 install:
-  - rm -rf public
+  - rm -rf docs
 
 # Build the website
 script:
-  - ./exec/hugo
-  - cp CNAME public/
+  - ./exec/hugo -t arabica
+  - cp CNAME docs/
 
 # Deploy to GitHub pages
 deploy:
   provider: pages
   skip_cleanup: true
-  local_dir: public
+  local_dir: docs
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
